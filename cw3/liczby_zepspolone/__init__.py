@@ -1,0 +1,1 @@
+all = ["czesci_liczby_zespolonej", "dodawnie_odejmowanie_liczby_zespolonej"]
